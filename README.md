@@ -5,6 +5,9 @@ If you want to spend your money wisely, this app can give you an idea. Enter you
 * Can memorize your current money at every reopening of the app.
 * Android Jetpack's View Binding feature used to manage UI objects
 
+## Requirements
+* Android SDK API 35 (Minimum API 34)
+
 ## [Kotlin Files](app/src/main/java/com/ferhat/dailyspendcalculator)
 
 [MainActivity.kt](app/src/main/java/com/ferhat/dailyspendcalculator/MainActivity.kt)
