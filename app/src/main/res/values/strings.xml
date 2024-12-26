@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daily Spend Calculator</string>
+    <string name="defDate">13/12/2025</string>
+    <string name="calculate">Calculate</string>
+    <string name="salary">Money</string>
+    <string name="next_payment_day">Next Payment Day</string>
+    <string name="your_daily_spend_has_to_be">Your daily spend has to be:</string>
+    <string name="_0">0</string>
+    <string name="salary_amount_in_euro">Money Amount In Euro</string>
+    <string name="SalarySave">Save Money To Database</string>
+    <string name="defDateVal">13/1/2025</string>
+</resources>
