@@ -9,4 +9,5 @@
     <string name="salary_amount_in_euro">Money Amount In Euro</string>
     <string name="SalarySave">Save Money To Database</string>
     <string name="defDateVal">13/1/2025</string>
+    <string name="left0">0 days left</string>
 </resources>
