@@ -16,7 +16,7 @@ If you want to spend your money wisely, this app can give you an idea. Enter you
 
 [funcsCalculate.kt](app/src/main/java/com/ferhat/dailyspendcalculator/funcsCalculate.kt)
 
-[funcsData.kt](app/src/main/java/com/ferhat/dailyspendcalculator/)
+[funcsData.kt](app/src/main/java/com/ferhat/dailyspendcalculator/funcsData.kt)
 
 ## Layout Files
 [Layout file](app/src/main/res/layout/activity_main.xml)
